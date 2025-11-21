@@ -195,3 +195,5 @@ for (const user of users) {
   }
 }
 
+
+process.exit(0);
